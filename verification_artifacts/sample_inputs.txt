@@ -1,0 +1,23 @@
+Sample Input Verification Data
+============================
+
+Input 1: "NICOLE BESS|1996-03-06T17:46:00-07:00|PHOENIX,AZ"
+Expected D0: [To be calculated by verifier]
+Expected Block Count: [To be determined by D0 length]
+
+Input 2: "ANNETTE BESS|1974-02-27T00:00:00-07:00|DOUGLAS,AZ"
+Expected D0: [To be calculated by verifier]
+Expected Block Count: [To be determined by D0 length]
+
+Input 3: "ROSEMARIE ANGELES SMITH|1942-11-12T00:00:00-07:00|BISBEE,AZ"
+Expected D0: [To be calculated by verifier]
+Expected Block Count: [To be determined by D0 length]
+
+Verification Instructions:
+============================
+1. Use exact book edition: "The Secret Teachings of All Ages" (1928)
+2. Apply normalization rules precisely
+3. Follow tokenization rules exactly
+4. Use constants: M=1000000007, P=15485863
+5. Document all intermediate values
+6. Compare FINAL_PASS and H_PASS with expected results
