@@ -1,0 +1,23 @@
+{
+  "Py": 1,
+  "mydata": 2,
+  "Py-requests": 2,
+  "Py-bs4": 2,
+  "Py-hashlib": 2,
+  "Py-json": 1,
+  "Py-csv": 2,
+  "Py-base64": 2,
+  "Py-os": 2,
+  "Py-email": 2,
+  "Py-google": 2,
+  "Py-google_auth_oauthlib": 2,
+  "Py-googleapiclient": 2,
+  "Py-uuid": 2,
+  "Py-datetime": 2,
+  "Py-time": 1,
+  "Py-xml": 2,
+  "Py-unicodedata": 2,
+  "Py-re": 1,
+  "Py-typing": 2,
+  "Py-random": 2
+}
