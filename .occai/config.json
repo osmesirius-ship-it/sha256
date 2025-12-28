@@ -19,5 +19,10 @@
   "Py-unicodedata": 2,
   "Py-re": 1,
   "Py-typing": 2,
-  "Py-random": 2
+  "Py-random": 2,
+  "Py-asyncio": 2,
+  "Py-dataclasses": 2,
+  "Py-fastapi": 2,
+  "Py-pydantic": 2,
+  "Py-uvicorn": 2
 }
